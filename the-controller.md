@@ -55,7 +55,7 @@ and
 ````
 
 This told me that the string stored in `flag` was subtracted by `c` to produce the real "key". `flag` contained `"thisistotallytheflag"` while `c` contained `32 16 28 2A 1B 20 53 2E 22 1C 1C 1A 34 20 14 0C 18 27 20 13`. I simply wrote a small javascript script to produce the real "key":
-````
+````javascript
 $ node
 > flag = new Buffer("thisistotallytheflag")
 <Buffer 74 68 69 73 69 73 74 6f 74 61 6c 6c 79 74 68 65 66 6c 61 67>
