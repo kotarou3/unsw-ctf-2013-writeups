@@ -3,7 +3,7 @@ Hidden messages
 
 Background
 ----------
-This task required us to find and decode a secret message on [http://aboudingcougar.k17.org].
+This task required us to find and decode a secret message on http://aboudingcougar.k17.org.
 
 Tools used
 ----------
